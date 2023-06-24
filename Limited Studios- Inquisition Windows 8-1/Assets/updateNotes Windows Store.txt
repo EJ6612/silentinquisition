@@ -1,0 +1,30 @@
+1.0.0.1-1.0.0.8 
+-Lowered roof
+-Doors and keys are now colored (ex: key x is the same color as door x, and so on)
+-Key element in UI shows the same color as the key you currently have
+-Key element in UI doesn't go off the screen
+-Player view has been darkened on the sides
+-Pause tip now doesn't disappear on larger screens
+-Colored keys and doors are now not as bright
+-Added Credits to Menu
+-Updated keys to match icon
+-Keys now slowly rotate
+-Fixed key looks and door sizes
+-Moved cheat key
+-Made colored blocks tiles next to door- looks nicer
+-Key icon now disappears when door is opened
+-Improved Player and Enemy collisions
+-Changed positioning of opened doors so that they won't hit the player when opened
+-Huge improvements in enemy
+-Improved NavMesh
+-Floor and Roof are now planes and not quads
+-Walls and Posts are now properly scaled
+-Torch flames look more natural now
+-Cheat added (very helpful for testing)
+-Squashed several bugs
+
+1.0.1.0
+-Fixed door (and some wall) render glitches
+-When door is opened, key is in the opened door
+-Player is faster
+-Updated credits with music sources

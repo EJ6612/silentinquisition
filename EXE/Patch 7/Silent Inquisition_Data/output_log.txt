@@ -1,0 +1,47 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4463
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 7\Silent Inquisition_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 7\Silent Inquisition_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 7\Silent Inquisition_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 7\Silent Inquisition_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 7\Silent Inquisition_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 7\Silent Inquisition_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 7\Silent Inquisition_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 7\Silent Inquisition_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 7\Silent Inquisition_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 7\Silent Inquisition_Data\Managed\System.dll (this message is harmless)
+desktop: 2736x1824 60Hz; virtual: 2736x1824 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.164100 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3684 -> priority: 1 
+  Thread -> id: 3688 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.421742 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2780.
+Total: 2.824614 ms (FindLiveObjects: 0.195281 ms CreateObjectMapping: 0.060717 ms MarkObjects: 1.901537 ms  DeleteObjects: 0.666666 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.695382 ms
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 6.738458 ms (FindLiveObjects: 0.272410 ms CreateObjectMapping: 0.097230 ms MarkObjects: 0.524307 ms  DeleteObjects: 5.843279 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.492717 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.287589 ms (FindLiveObjects: 0.023384 ms CreateObjectMapping: 0.015589 ms MarkObjects: 0.223589 ms  DeleteObjects: 0.024205 ms)
+

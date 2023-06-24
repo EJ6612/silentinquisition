@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EJ-SP4</Machine>
+    <WindowsUser>EJ</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>51797EJ6612.SilentInquisition</PackageIdentityName>
+    <PackageIdentityPublisher>CN=20AEA7A4-003D-440F-8BB5-7A2241D465CA</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\Silent Inquisition.exe">
+      <PackagePath>Silent Inquisition.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity 5.6.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\Windows81\x86\Release\UnityEngineProxy.dll">
+      <PackagePath>UnityEngineProxy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Unprocessed\WinRTLegacy.dll">
+      <PackagePath>WinRTLegacy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity 5.6.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\Windows81\x86\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity 5.6.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\Windows81\x86\Release\BridgeInterface.dll">
+      <PackagePath>BridgeInterface.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity 5.6.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\Windows81\x86\Release\UnityEngineDelegates.dll">
+      <PackagePath>UnityEngineDelegates.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity 5.6.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\Windows81\x86\Release\BridgeInterface.winmd">
+      <PackagePath>BridgeInterface.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity 5.6.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\Windows81\x86\Release\UnityEngineDelegates.winmd">
+      <PackagePath>UnityEngineDelegates.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity 5.6.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\Windows81\x86\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity 5.6.4\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\Windows81\x86\Release\WinRTBridge.winmd">
+      <PackagePath>WinRTBridge.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Resource.res">
+      <PackagePath>Resource.res</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\MediumTile.scale-100.png">
+      <PackagePath>Assets\MediumTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\MediumTile.scale-140.png">
+      <PackagePath>Assets\MediumTile.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\MediumTile.scale-180.png">
+      <PackagePath>Assets\MediumTile.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\MediumTile.scale-80.png">
+      <PackagePath>Assets\MediumTile.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SmallTile.scale-140.png">
+      <PackagePath>Assets\SmallTile.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SmallTile.scale-180.png">
+      <PackagePath>Assets\SmallTile.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SmallTile.scale-80.png">
+      <PackagePath>Assets\SmallTile.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assets\WideTile.scale-100.png">
+      <PackagePath>Assets\WideTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\globalgamemanagers">
+      <PackagePath>Data\globalgamemanagers</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\level1">
+      <PackagePath>Data\level1</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\level2">
+      <PackagePath>Data\level2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\level3">
+      <PackagePath>Data\level3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\globalgamemanagers.assets">
+      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\sharedassets1.assets">
+      <PackagePath>Data\sharedassets1.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\sharedassets2.assets">
+      <PackagePath>Data\sharedassets2.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\sharedassets3.assets">
+      <PackagePath>Data\sharedassets3.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\globalgamemanagers.assets.resS">
+      <PackagePath>Data\globalgamemanagers.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\sharedassets1.assets.resS">
+      <PackagePath>Data\sharedassets1.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\sharedassets2.assets.resS">
+      <PackagePath>Data\sharedassets2.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\sharedassets3.assets.resS">
+      <PackagePath>Data\sharedassets3.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\managedAssemblies.txt">
+      <PackagePath>Data\managedAssemblies.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Data\sharedassets1.resource">
+      <PackagePath>Data\sharedassets1.resource</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\Silent Inquisition.xr.xml">
+      <PackagePath>Silent Inquisition.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\Assembly-CSharp.dll">
+      <PackagePath>Assembly-CSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\nunit.framework.dll">
+      <PackagePath>nunit.framework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\UnityEngine.UI.dll">
+      <PackagePath>UnityEngine.UI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EJ\OneDrive\%2811%29 Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\UnityEngine.Networking.dll">
+      <PackagePath>UnityEngine.Networking.dll</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

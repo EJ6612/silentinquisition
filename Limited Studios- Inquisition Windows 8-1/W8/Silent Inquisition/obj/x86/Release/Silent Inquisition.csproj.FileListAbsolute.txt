@@ -1,0 +1,58 @@
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\App.xbf
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\MainPage.xbf
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\Silent Inquisition.xr.xml
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\Silent Inquisition.exe
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\Silent Inquisition.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\resources.pri
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\AppxManifest.xml
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\Silent Inquisition.build.appxrecipe
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\Assembly-CSharp.dll
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\BridgeInterface.winmd
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\nunit.framework.dll
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngine.dll
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngine.Networking.dll
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngine.UI.dll
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngineDelegates.winmd
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngineProxy.dll
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityPlayer.winmd
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\WinRTBridge.winmd
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\WinRTLegacy.dll
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityPlayer.dll
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityPlayer_Windows81_x86_Release_dotnet.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\WinRTBridge.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\BridgeInterface.dll
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\BridgeInterface.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngineDelegates.dll
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngineDelegates.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngineProxy.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\Assembly-CSharp.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngine.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\nunit.framework.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngine.UI.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\bin\x86\Release\UnityEngine.Networking.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\Silent Inquisition.csprojResolveAssemblyReference.cache
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\App.g.i.cs
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\App.g.cs
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\MainPage.g.i.cs
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\MainPage.g.cs
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\App.xaml
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\MainPage.xaml
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\App.xbf
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\MainPage.xbf
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\Silent Inquisition.exe
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\Silent Inquisition.pdb
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\Silent Inquisition.csproj.GenerateResource.Cache
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\priconfig.xml
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\layout.resfiles
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\resources.resfiles
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\pri.resfiles
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\qualifiers.txt
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\ProjectArchitectures.txt

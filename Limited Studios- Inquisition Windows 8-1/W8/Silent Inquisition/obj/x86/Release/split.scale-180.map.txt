@@ -1,0 +1,11 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\split.scale-180.pri"			"resources.pri"
+"C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\PackageLayout\Assets\StoreLogo.scale-180.png"			"Assets\StoreLogo.scale-180.png"
+"C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\PackageLayout\Assets\SplashScreen.scale-180.png"			"Assets\SplashScreen.scale-180.png"
+"C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\PackageLayout\Assets\SmallTile.scale-180.png"			"Assets\SmallTile.scale-180.png"
+"C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\PackageLayout\Assets\SmallLogo.scale-180.png"			"Assets\SmallLogo.scale-180.png"
+"C:\Users\EJ\OneDrive\(11) Junior Year\1 VGD\Q4\Limited Studios- Inquisition Windows 8-1\W8\Silent Inquisition\obj\x86\Release\PackageLayout\Assets\MediumTile.scale-180.png"			"Assets\MediumTile.scale-180.png"

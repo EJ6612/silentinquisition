@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="51797EJ6612.SilentInquisition" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>80, 100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://51797EJ6612.SilentInquisition/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://51797EJ6612.SilentInquisition/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Resource.res" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Resource.res">
+				<Candidate type="Path">
+					<Value>Resource.res</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Silent Inquisition.xr.xml" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Silent%20Inquisition.xr.xml">
+				<Candidate type="Path">
+					<Value>Silent Inquisition.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="MediumTile.png" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Assets/MediumTile.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\MediumTile.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\MediumTile.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallTile.png" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Assets/SmallTile.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\SmallTile.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallTile.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideTile.png" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Assets/WideTile.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\WideTile.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Data">
+				<NamedResource name="globalgamemanagers" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/globalgamemanagers">
+					<Candidate type="Path">
+						<Value>Data\globalgamemanagers</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="globalgamemanagers.assets" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/globalgamemanagers.assets">
+					<Candidate type="Path">
+						<Value>Data\globalgamemanagers.assets</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="globalgamemanagers.assets.resS" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/globalgamemanagers.assets.resS">
+					<Candidate type="Path">
+						<Value>Data\globalgamemanagers.assets.resS</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="level0" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/level0">
+					<Candidate type="Path">
+						<Value>Data\level0</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="level1" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/level1">
+					<Candidate type="Path">
+						<Value>Data\level1</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="level2" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/level2">
+					<Candidate type="Path">
+						<Value>Data\level2</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="level3" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/level3">
+					<Candidate type="Path">
+						<Value>Data\level3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="managedAssemblies.txt" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/managedAssemblies.txt">
+					<Candidate type="Path">
+						<Value>Data\managedAssemblies.txt</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets0.assets" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/sharedassets0.assets">
+					<Candidate type="Path">
+						<Value>Data\sharedassets0.assets</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets0.assets.resS" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/sharedassets0.assets.resS">
+					<Candidate type="Path">
+						<Value>Data\sharedassets0.assets.resS</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets0.resource" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/sharedassets0.resource">
+					<Candidate type="Path">
+						<Value>Data\sharedassets0.resource</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets1.assets" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/sharedassets1.assets">
+					<Candidate type="Path">
+						<Value>Data\sharedassets1.assets</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets1.assets.resS" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/sharedassets1.assets.resS">
+					<Candidate type="Path">
+						<Value>Data\sharedassets1.assets.resS</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets1.resource" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/sharedassets1.resource">
+					<Candidate type="Path">
+						<Value>Data\sharedassets1.resource</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets2.assets" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/sharedassets2.assets">
+					<Candidate type="Path">
+						<Value>Data\sharedassets2.assets</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets2.assets.resS" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/sharedassets2.assets.resS">
+					<Candidate type="Path">
+						<Value>Data\sharedassets2.assets.resS</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets3.assets" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/sharedassets3.assets">
+					<Candidate type="Path">
+						<Value>Data\sharedassets3.assets</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharedassets3.assets.resS" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/sharedassets3.assets.resS">
+					<Candidate type="Path">
+						<Value>Data\sharedassets3.assets.resS</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Resources">
+					<NamedResource name="unity default resources" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/Resources/unity%20default%20resources">
+						<Candidate type="Path">
+							<Value>Data\Resources\unity default resources</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="unity_builtin_extra" uri="ms-resource://51797EJ6612.SilentInquisition/Files/Data/Resources/unity_builtin_extra">
+						<Candidate type="Path">
+							<Value>Data\Resources\unity_builtin_extra</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

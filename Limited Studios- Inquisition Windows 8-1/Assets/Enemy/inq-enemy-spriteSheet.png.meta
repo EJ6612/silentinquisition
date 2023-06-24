@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: a2a7e117373894452b2a2897787cb3b6
+timeCreated: 1494950719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: inq-enemy-spriteSheet_0
+    21300002: inq-enemy-spriteSheet_1
+    21300004: inq-enemy-spriteSheet_2
+    21300006: inq-enemy-spriteSheet_3
+    21300008: inq-enemy-spriteSheet_4
+    21300010: inq-enemy-spriteSheet_5
+    21300012: inq-enemy-spriteSheet_6
+    21300014: inq-enemy-spriteSheet_7
+    21300016: inq-enemy-spriteSheet_8
+    21300018: inq-enemy-spriteSheet_9
+    21300020: inq-enemy-spriteSheet_10
+    21300022: inq-enemy-spriteSheet_11
+    21300024: inq-enemy-spriteSheet_12
+    21300026: inq-enemy-spriteSheet_13
+    21300028: inq-enemy-spriteSheet_14
+    21300030: inq-enemy-spriteSheet_15
+    21300032: inq-enemy-spriteSheet_16
+    21300034: inq-enemy-spriteSheet_17
+    21300036: inq-enemy-spriteSheet_18
+    21300038: inq-enemy-spriteSheet_19
+    21300040: inq-enemy-spriteSheet_20
+    21300042: inq-enemy-spriteSheet_21
+    21300044: inq-enemy-spriteSheet_22
+    21300046: inq-enemy-spriteSheet_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 9284
+        width: 959
+        height: 2602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 9281
+        width: 960
+        height: 2605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 9284
+        width: 961
+        height: 2602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 5071
+        y: 9243
+        width: 668
+        height: 2637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 9249
+        width: 668
+        height: 2641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 8060
+        y: 9261
+        width: 673
+        height: 2636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 6296
+        width: 1007
+        height: 2601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 6290
+        width: 961
+        height: 2601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 6290
+        width: 958
+        height: 2601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 5066
+        y: 6267
+        width: 673
+        height: 2636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 6261
+        width: 667
+        height: 2636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 8065
+        y: 6255
+        width: 668
+        height: 2642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3068
+        width: 667
+        height: 2636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 3062
+        width: 673
+        height: 2636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 3056
+        width: 668
+        height: 2636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 4749
+        y: 3138
+        width: 961
+        height: 2601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 6237
+        y: 3138
+        width: 961
+        height: 2601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 7726
+        y: 3138
+        width: 960
+        height: 2601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 667
+        height: 2637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 73
+        width: 670
+        height: 2637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 74
+        width: 668
+        height: 2639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 4714
+        y: 144
+        width: 1008
+        height: 2601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 6237
+        y: 138
+        width: 961
+        height: 2601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inq-enemy-spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 7726
+        y: 138
+        width: 960
+        height: 2601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

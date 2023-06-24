@@ -1,0 +1,119 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4463
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 3\Silent Inquisition_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 3\Silent Inquisition_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 3\Silent Inquisition_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 3\Silent Inquisition_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 3\Silent Inquisition_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 3\Silent Inquisition_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 3\Silent Inquisition_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 3\Silent Inquisition_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 3\Silent Inquisition_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ej_66\Desktop\Limited Studios- Inquisition\EXE\Patch 3\Silent Inquisition_Data\Managed\System.dll (this message is harmless)
+desktop: 2736x1824 60Hz; virtual: 2736x1824 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 33.517918 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 18b8 -> priority: 1 
+  Thread -> id: 2da8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.443074 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 2.709331 ms (FindLiveObjects: 0.177230 ms CreateObjectMapping: 0.059076 ms MarkObjects: 1.885536 ms  DeleteObjects: 0.587076 ms)
+
+Key 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Key 18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.572511 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 2.522664 ms (FindLiveObjects: 0.087794 ms CreateObjectMapping: 0.017230 ms MarkObjects: 0.182153 ms  DeleteObjects: 2.235075 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.459076 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 345.
+Total: 0.328204 ms (FindLiveObjects: 0.052512 ms CreateObjectMapping: 0.020512 ms MarkObjects: 0.242051 ms  DeleteObjects: 0.012717 ms)
+
